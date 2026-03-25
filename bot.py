@@ -1,3 +1,5 @@
+from bear_core import bear_reply
+from voice import speak_text
 import os
 import discord
 from discord.ext import commands
